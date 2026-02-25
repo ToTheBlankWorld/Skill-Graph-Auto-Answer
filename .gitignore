@@ -1,0 +1,7 @@
+.env
+.venv
+__pycache__
+*.pyc
+.DS_Store
+Skill Graph Gemini.rar
+Skill Graph Groq Main.rar
